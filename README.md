@@ -1,4 +1,4 @@
-# 🛡️ Vulnerability Assessment Project  
+# 🛡️ Vulnerability Assessment Task
 **By:** Vivek Agrawal  
 **Date:** October 26, 2025  
 **Tools Used:** OpenVAS (Greenbone Vulnerability Management), Nessus  
